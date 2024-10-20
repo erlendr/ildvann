@@ -1,10 +1,13 @@
+using System.Globalization;
+using System.Text;
+using System.Text.RegularExpressions;
 using AngleSharp.Html.Dom;
 using AngleSharp.Html.Parser;
 using Ildvann.RumXScraper.Models;
 
 namespace Ildvann.RumXScraper;
 
-public class ContentScraper
+public partial class ContentScraper
 {
     public async Task<Rum> GetRumByPageUrl(Uri url, CancellationToken token = new())
     {
@@ -15,7 +18,8 @@ public class ContentScraper
 
         Console.WriteLine($"Downloading {englishUrl}...");
 
-        var html = await GetHtml(englishUrl, token);
+        var html = await GetRawHtmlContent(englishUrl, token);
+
         var parser = new HtmlParser();
         var document = await parser.ParseDocumentAsync(html, token);
 
@@ -38,9 +42,9 @@ public class ContentScraper
         {
             var rum = await GetRumByPageUrl(uri, token);
             rums.Add(rum);
-            Console.WriteLine($"Parsed {rum.Title}");
+            Console.WriteLine($"Parsed {rum.Subtitle} {rum.Title}");
         });
-        
+
         return rums;
     }
 
@@ -79,12 +83,13 @@ public class ContentScraper
         };
     }
 
-    private static async Task<string> GetHtml(Uri englishUrl, CancellationToken token = new())
+    private static async Task<string> GetRawHtmlContent(Uri englishUrl, CancellationToken token = new())
     {
         var httpClient = new HttpClient();
         var response = await httpClient.GetAsync(englishUrl, token);
         response.EnsureSuccessStatusCode();
-        var html = await response.Content.ReadAsStringAsync();
-        return html;
+        var buf = await response.Content.ReadAsByteArrayAsync(token);
+        var content = Encoding.UTF8.GetString(buf);
+        return content;
     }
 }

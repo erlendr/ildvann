@@ -10,4 +10,6 @@ public record struct Rum
     public string RxId { get; set; }
     public string Desc { get; set; }
     public string Country { get; set; }
+    public Uri Url { get; set; }
+    public int PriceRange { get; set; }
 }

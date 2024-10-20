@@ -1,4 +1,5 @@
 ﻿using Ildvann.RumXScraper;
+using Ildvann.RumXScraper.Models;
 
 const string rumXSitemapUrl = "https://www.rum-x.fr/sitemap.xml";
 var sitemapScraper = new SitemapScraper();
@@ -52,9 +53,9 @@ rums.Sort((a, b) => string.Compare(a.AbsolutePath, b.AbsolutePath, StringCompari
 
 var contentScraper = new ContentScraper();
 
-foreach (var rum in rums.Take(5))
-{
-    var rumData = await contentScraper.GetRumByPageUrl(rum);
-    Console.WriteLine(rumData);
-}
+var scrapedRums = new List<Rum>();
+scrapedRums.AddRange(await contentScraper.GetRumByPageUrls(rums.Take(100).ToList()));
+
+var outputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "rums.json");
+await OutputWriter.WriteRumsToJsonAsync(scrapedRums, outputFilePath);
 

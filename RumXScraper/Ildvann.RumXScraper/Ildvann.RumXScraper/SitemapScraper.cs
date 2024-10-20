@@ -5,12 +5,12 @@ namespace Ildvann.RumXScraper;
 public class SitemapScraper
 {
     // A method that scrapes a sitemap and returns a list of URLs from it
-    public async Task<List<string>> ScrapeSitemapAsync(string sitemapUrl)
+    public async Task<List<Uri>> ScrapeSitemapAsync(string sitemapUrl)
     {
         var httpClient = new HttpClient();
         var sitemap = await httpClient.GetStringAsync(sitemapUrl);
         var doc = XDocument.Parse(sitemap);
         var ns = doc.Root?.GetDefaultNamespace() ?? throw new Exception("Invalid XML: XNamespace not found");
-        return doc.Descendants(ns + "loc").Select(urlElement => urlElement.Value).ToList();
+        return doc.Descendants(ns + "loc").Select(urlElement => new Uri(urlElement.Value)).ToList();
     }
 }

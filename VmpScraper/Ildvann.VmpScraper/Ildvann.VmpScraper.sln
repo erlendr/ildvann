@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ildvann.VmpScraper", "Ildvann.VmpScraper\Ildvann.VmpScraper.csproj", "{F1AEA11B-D636-4C49-A69F-75AC55EE2389}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "slnfiles", "slnfiles", "{24502F17-59EB-478A-89FD-5DD4B0789D2E}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AEA11B-D636-4C49-A69F-75AC55EE2389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AEA11B-D636-4C49-A69F-75AC55EE2389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AEA11B-D636-4C49-A69F-75AC55EE2389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AEA11B-D636-4C49-A69F-75AC55EE2389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

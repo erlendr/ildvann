@@ -33,7 +33,7 @@ public partial class ContentScraper
 
         ParallelOptions parallelOptions = new()
         {
-            MaxDegreeOfParallelism = 5
+            MaxDegreeOfParallelism = 10
         };
 
         var rums = new List<Rum>();

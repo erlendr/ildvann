@@ -1,0 +1,4502 @@
+[
+  {
+    "code": "20901",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/20901-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/20901-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Mexico",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Fruktbrennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Cuervo Especial Reposado Tequila",
+    "price": {
+      "formattedValue": "Kr\u00A0447,90",
+      "readableValue": "447 kroner og 90 \u00F8re",
+      "value": 447.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Mexico/Cuervo-Especial-Reposado-Tequila/p/20901",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "26201",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/26201-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/26201-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Norge",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Lik\u00F8r",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Frost",
+    "price": {
+      "formattedValue": "Kr\u00A0284,90",
+      "readableValue": "284 kroner og 90 \u00F8re",
+      "value": 284.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "12 p\u00E5 lager",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: 12 p\u00E5 lager - flere kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Norge/Frost/p/26201",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "18601",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/18601-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/18601-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Lik\u00F8r",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Galliano Vanilla",
+    "price": {
+      "formattedValue": "Kr\u00A0404,90",
+      "readableValue": "404 kroner og 90 \u00F8re",
+      "value": 404.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Galliano-Vanilla/p/18601",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "160401",
+    "buyable": true,
+    "district": {
+      "name": "Nahe",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/160401-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/160401-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Hvitvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Tyskland",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Gut Hermannsberg Steinberg Riesling Sp\u00E4tlese 2021",
+    "price": {
+      "formattedValue": "Kr\u00A0339,00",
+      "readableValue": "339 kroner",
+      "value": 339
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Tyskland/Nahe/Gut-Hermannsberg-Steinberg-Riesling-Sp%C3%A4tlese-2021/p/160401",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "174801",
+    "buyable": true,
+    "district": {
+      "name": "Veneto",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/174801-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/174801-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Novaia Valpolicella Classico 2023",
+    "price": {
+      "formattedValue": "Kr\u00A0249,90",
+      "readableValue": "249 kroner og 90 \u00F8re",
+      "value": 249.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Valpolicella Classico",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Italia/Veneto/Valpolicella-Classico/Novaia-Valpolicella-Classico-2023/p/174801",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "157001",
+    "buyable": true,
+    "district": {
+      "name": "Agder",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/157001-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/157001-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Norge",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Akevitt",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Vill og Vakker Sunndalsakevitten",
+    "price": {
+      "formattedValue": "Kr\u00A0494,90",
+      "readableValue": "494 kroner og 90 \u00F8re",
+      "value": 494.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Norge/Agder/Vill-og-Vakker-Sunndalsakevitten/p/157001",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "229601",
+    "buyable": true,
+    "district": {
+      "name": "Piemonte",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/229601-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/229601-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "\u00D8l",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Saison farmhouse ale",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Baladin Wayan",
+    "price": {
+      "formattedValue": "Kr\u00A0134,00",
+      "readableValue": "134 kroner",
+      "value": 134
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Piemonte/Baladin-Wayan/p/229601",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "170401",
+    "buyable": true,
+    "district": {
+      "name": "Sicilia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/170401-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/170401-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Hvitvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Ten. di Castellaro Pomice Bianco 2021",
+    "price": {
+      "formattedValue": "Kr\u00A0334,90",
+      "readableValue": "334 kroner og 90 \u00F8re",
+      "value": 334.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Sicilia/Ten-di-Castellaro-Pomice-Bianco-2021/p/170401",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "159601",
+    "buyable": true,
+    "district": {
+      "name": "Central Otago",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/159601-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/159601-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "New Zealand",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Felton Road Calvert Pinot Noir 2022",
+    "price": {
+      "formattedValue": "Kr\u00A0629,00",
+      "readableValue": "629 kroner",
+      "value": 629
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Bannockburn",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/New-Zealand/Central-Otago/Bannockburn/Felton-Road-Calvert-Pinot-Noir-2022/p/159601",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "168102",
+    "buyable": true,
+    "district": {
+      "name": "Buskerud",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/168102-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/168102-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Norge",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Akevitt",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Egge G\u00E5rd Akevitt med eple og villkarve",
+    "price": {
+      "formattedValue": "Kr\u00A0399,90",
+      "readableValue": "399 kroner og 90 \u00F8re",
+      "value": 399.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Lier",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Norge/Buskerud/Lier/Egge-G%C3%A5rd-Akevitt-med-eple-og-villkarve/p/168102",
+    "volume": {
+      "formattedValue": "50 cl",
+      "readableValue": "50 centiliter",
+      "value": 50
+    }
+  },
+  {
+    "code": "233702",
+    "buyable": true,
+    "district": {
+      "name": "Veneto",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/233702-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/233702-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Masi Bonacosta Valpolicella Classico 2022",
+    "price": {
+      "formattedValue": "Kr\u00A0114,90",
+      "readableValue": "114 kroner og 90 \u00F8re",
+      "value": 114.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Valpolicella Classico",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Veneto/Valpolicella-Classico/Masi-Bonacosta-Valpolicella-Classico-2022/p/233702",
+    "volume": {
+      "formattedValue": "37,5 cl",
+      "readableValue": "37,5 centiliter",
+      "value": 37.5
+    }
+  },
+  {
+    "code": "233701",
+    "buyable": true,
+    "district": {
+      "name": "Veneto",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/233701-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/233701-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Masi Bonacosta Valpolicella Classico 2022",
+    "price": {
+      "formattedValue": "Kr\u00A0199,90",
+      "readableValue": "199 kroner og 90 \u00F8re",
+      "value": 199.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "1 p\u00E5 lager",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: 1 p\u00E5 lager - flere kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Valpolicella Classico",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Veneto/Valpolicella-Classico/Masi-Bonacosta-Valpolicella-Classico-2022/p/233701",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "173301",
+    "buyable": true,
+    "district": {
+      "name": "Toscana",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/173301-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/173301-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Mastrojanni Rosso di Montalcino 2020",
+    "price": {
+      "formattedValue": "Kr\u00A0410,00",
+      "readableValue": "410 kroner",
+      "value": 410
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Rosso di Montalcino",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Toscana/Rosso-di-Montalcino/Mastrojanni-Rosso-di-Montalcino-2020/p/173301",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "187701",
+    "buyable": true,
+    "district": {
+      "name": "Veneto",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/187701-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/187701-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Hvitvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Angiolino Maule Pico 2018",
+    "price": {
+      "formattedValue": "Kr\u00A0399,90",
+      "readableValue": "399 kroner og 90 \u00F8re",
+      "value": 399.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Veneto/Angiolino-Maule-Pico-2018/p/187701",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "151302",
+    "buyable": true,
+    "district": {
+      "name": "South E. Australia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/151302-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/151302-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Australia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Jacob\u0027s Creek Shiraz Cabernet 2022",
+    "price": {
+      "formattedValue": "Kr\u00A074,90",
+      "readableValue": "74 kroner og 90 \u00F8re",
+      "value": 74.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Australia/South-E-Australia/Jacob%27s-Creek-Shiraz-Cabernet-2022/p/151302",
+    "volume": {
+      "formattedValue": "37,5 cl",
+      "readableValue": "37,5 centiliter",
+      "value": 37.5
+    }
+  },
+  {
+    "code": "151301",
+    "buyable": true,
+    "district": {
+      "name": "South E. Australia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/151301-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/151301-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Australia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Jacob\u0027s Creek Shiraz Cabernet 2022",
+    "price": {
+      "formattedValue": "Kr\u00A0123,90",
+      "readableValue": "123 kroner og 90 \u00F8re",
+      "value": 123.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "10 p\u00E5 lager",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: 10 p\u00E5 lager - flere kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Australia/South-E-Australia/Jacob%27s-Creek-Shiraz-Cabernet-2022/p/151301",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "185506",
+    "buyable": true,
+    "district": {
+      "name": "Toscana",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/185506-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/185506-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Rosso dei Barbi Toscana",
+    "price": {
+      "formattedValue": "Kr\u00A0524,90",
+      "readableValue": "524 kroner og 90 \u00F8re",
+      "value": 524.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Italia/Toscana/Rosso-dei-Barbi-Toscana/p/185506",
+    "volume": {
+      "formattedValue": "300 cl",
+      "readableValue": "300 centiliter",
+      "value": 300
+    }
+  },
+  {
+    "code": "7101",
+    "buyable": true,
+    "district": {
+      "name": "Cognac Tradisjonell",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/7101-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/7101-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Druebrennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "De Luze V.S.",
+    "price": {
+      "formattedValue": "Kr\u00A0499,90",
+      "readableValue": "499 kroner og 90 \u00F8re",
+      "value": 499.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "2 p\u00E5 lager",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: 2 p\u00E5 lager - flere kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Bons Bois",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Cognac-Tradisjonell/Bons-Bois/De-Luze-V-S-/p/7101",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "27501",
+    "buyable": true,
+    "district": {
+      "name": "Calvados",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/27501-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/27501-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Fruktbrennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "P\u00E8re Magloire V.S.O.P.",
+    "price": {
+      "formattedValue": "Kr\u00A0519,90",
+      "readableValue": "519 kroner og 90 \u00F8re",
+      "value": 519.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Calvados/P%C3%A8re-Magloire-V-S-O-P-/p/27501",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "141102",
+    "buyable": true,
+    "district": {
+      "name": "Cognac Tradisjonell",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/141102-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/141102-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Druebrennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Bache-Gabrielsen Christmas Cognac XO",
+    "price": {
+      "formattedValue": "Kr\u00A0555,00",
+      "readableValue": "555 kroner",
+      "value": 555
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Cognac-Tradisjonell/Bache-Gabrielsen-Christmas-Cognac-XO/p/141102",
+    "volume": {
+      "formattedValue": "50 cl",
+      "readableValue": "50 centiliter",
+      "value": 50
+    }
+  },
+  {
+    "code": "17702",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/17702-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/17702-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Nederland",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Genever",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Bokma Oude Friesche",
+    "price": {
+      "formattedValue": "Kr\u00A0349,90",
+      "readableValue": "349 kroner og 90 \u00F8re",
+      "value": 349.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Nederland/Bokma-Oude-Friesche/p/17702",
+    "volume": {
+      "formattedValue": "50 cl",
+      "readableValue": "50 centiliter",
+      "value": 50
+    }
+  },
+  {
+    "code": "74302",
+    "buyable": true,
+    "district": {
+      "name": "Loire",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/74302-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/74302-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Hvitvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Henri Bourgeois Sancerre Grande R\u00E9serve 2023",
+    "price": {
+      "formattedValue": "Kr\u00A0174,90",
+      "readableValue": "174 kroner og 90 \u00F8re",
+      "value": 174.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Sancerre",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Loire/Sancerre/Henri-Bourgeois-Sancerre-Grande-R%C3%A9serve-2023/p/74302",
+    "volume": {
+      "formattedValue": "37,5 cl",
+      "readableValue": "37,5 centiliter",
+      "value": 37.5
+    }
+  },
+  {
+    "code": "129001",
+    "buyable": true,
+    "district": {
+      "name": "Champagne",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/129001-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/129001-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Musserende vin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Champagne, brut",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Moutard Vieilles Vignes Arbane Brut 2014",
+    "price": {
+      "formattedValue": "Kr\u00A01\u00A0899,90",
+      "readableValue": "1899 kroner og 90 \u00F8re",
+      "value": 1899.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Champagne/Moutard-Vieilles-Vignes-Arbane-Brut-2014/p/129001",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "36202",
+    "buyable": true,
+    "district": {
+      "name": "Andalucia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/36202-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/36202-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Sterkvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Spania",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Sherry",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Bristol Cream",
+    "price": {
+      "formattedValue": "Kr\u00A0161,90",
+      "readableValue": "161 kroner og 90 \u00F8re",
+      "value": 161.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Jerez-X\u00E9r\u00E8s-Sherry",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Spania/Andalucia/Jerez-X%C3%A9r%C3%A8s-Sherry/Bristol-Cream/p/36202",
+    "volume": {
+      "formattedValue": "37,5 cl",
+      "readableValue": "37,5 centiliter",
+      "value": 37.5
+    }
+  },
+  {
+    "code": "118102",
+    "buyable": true,
+    "district": {
+      "name": "Vestland",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/118102-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/118102-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Norge",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Fruktbrennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Hardanger Eplebrennevin APAL 2018",
+    "price": {
+      "formattedValue": "Kr\u00A0483,50",
+      "readableValue": "483 kroner og 50 \u00F8re",
+      "value": 483.5
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Norge/Vestland/Hardanger-Eplebrennevin-APAL-2018/p/118102",
+    "volume": {
+      "formattedValue": "50 cl",
+      "readableValue": "50 centiliter",
+      "value": 50
+    }
+  },
+  {
+    "code": "152601",
+    "buyable": true,
+    "district": {
+      "name": "Burgund",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/152601-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/152601-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Hvitvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Joseph Drouhin Lafor\u00EAt Bourgogne Chardonnay 2022",
+    "price": {
+      "formattedValue": "Kr\u00A0285,00",
+      "readableValue": "285 kroner",
+      "value": 285
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Bourgogne",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Burgund/Bourgogne/Joseph-Drouhin-Lafor%C3%AAt-Bourgogne-Chardonnay-2022/p/152601",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "187201",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/187201-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/187201-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Irland",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Whisky",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Jameson Black Barrel Irish Whiskey",
+    "price": {
+      "formattedValue": "Kr\u00A0529,90",
+      "readableValue": "529 kroner og 90 \u00F8re",
+      "value": 529.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Irland/Jameson-Black-Barrel-Irish-Whiskey/p/187201",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "74101",
+    "buyable": true,
+    "district": {
+      "name": "Alsace",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/74101-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/74101-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Hvitvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Dopff \u0026 Irion Cuv\u00E9e Ren\u00E9 Dopff Gewurztraminer 2023",
+    "price": {
+      "formattedValue": "Kr\u00A0189,90",
+      "readableValue": "189 kroner og 90 \u00F8re",
+      "value": 189.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Frankrike/Alsace/Dopff-%26-Irion-Cuv%C3%A9e-Ren%C3%A9-Dopff-Gewurztraminer-2023/p/74101",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "24201",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/24201-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/24201-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Aromatisert vin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Dubonnet",
+    "price": {
+      "formattedValue": "Kr\u00A0189,90",
+      "readableValue": "189 kroner og 90 \u00F8re",
+      "value": 189.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Dubonnet/p/24201",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "186105",
+    "buyable": true,
+    "district": {
+      "name": "Toscana",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/186105-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/186105-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Castell\u0027in Villa Poggio delle Rose Riserva 2009",
+    "price": {
+      "formattedValue": "Kr\u00A01\u00A0989,90",
+      "readableValue": "1989 kroner og 90 \u00F8re",
+      "value": 1989.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Chianti Classico",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Toscana/Chianti-Classico/Castell%27in-Villa-Poggio-delle-Rose-Riserva-2009/p/186105",
+    "volume": {
+      "formattedValue": "150 cl",
+      "readableValue": "150 centiliter",
+      "value": 150
+    }
+  },
+  {
+    "code": "246001",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/246001-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/246001-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Guatemala",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Rom",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Ron Zacapa Xo",
+    "price": {
+      "formattedValue": "Kr\u00A01\u00A0250,00",
+      "readableValue": "1250 kroner",
+      "value": 1250
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Guatemala/Ron-Zacapa-Xo/p/246001",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  },
+  {
+    "code": "148606",
+    "buyable": true,
+    "district": {
+      "name": "Veneto",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/148606-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/148606-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Hvitvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Casalforte Soave 2023",
+    "price": {
+      "formattedValue": "Kr\u00A0409,90",
+      "readableValue": "409 kroner og 90 \u00F8re",
+      "value": 409.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Soave",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Italia/Veneto/Soave/Casalforte-Soave-2023/p/148606",
+    "volume": {
+      "formattedValue": "300 cl",
+      "readableValue": "300 centiliter",
+      "value": 300
+    }
+  },
+  {
+    "code": "197401",
+    "buyable": true,
+    "district": {
+      "name": "Cava",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/197401-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/197401-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Musserende vin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Spania",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Musserende vin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Gramona III Lustros Gran Reserva 2015",
+    "price": {
+      "formattedValue": "Kr\u00A0554,90",
+      "readableValue": "554 kroner og 90 \u00F8re",
+      "value": 554.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Spania/Cava/Gramona-III-Lustros-Gran-Reserva-2015/p/197401",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "180401",
+    "buyable": true,
+    "district": {
+      "name": "Toscana",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/180401-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/180401-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Nittardi Nectar Dei 2020",
+    "price": {
+      "formattedValue": "Kr\u00A0635,00",
+      "readableValue": "635 kroner",
+      "value": 635
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Maremma",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Italia/Toscana/Maremma/Nittardi-Nectar-Dei-2020/p/180401",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "209301",
+    "buyable": true,
+    "district": {
+      "name": "Jura",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/209301-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/209301-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Musserende vin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Musserende vin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Faudot Cr\u00E9mant du Jura Brut",
+    "price": {
+      "formattedValue": "Kr\u00A0279,90",
+      "readableValue": "279 kroner og 90 \u00F8re",
+      "value": 279.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Cr\u00E9mant du Jura",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Jura/Cr%C3%A9mant-du-Jura/Faudot-Cr%C3%A9mant-du-Jura-Brut/p/209301",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "216601",
+    "buyable": true,
+    "district": {
+      "name": "California",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/216601-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/216601-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "USA",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Fetzer Valley Oaks Zinfandel 2021",
+    "price": {
+      "formattedValue": "Kr\u00A0149,90",
+      "readableValue": "149 kroner og 90 \u00F8re",
+      "value": 149.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "1 p\u00E5 lager",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: 1 p\u00E5 lager - flere kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/USA/California/Fetzer-Valley-Oaks-Zinfandel-2021/p/216601",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "176101",
+    "buyable": true,
+    "district": {
+      "name": "Piemonte",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/176101-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/176101-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Fontanafredda Silver Barolo 2019",
+    "price": {
+      "formattedValue": "Kr\u00A0414,90",
+      "readableValue": "414 kroner og 90 \u00F8re",
+      "value": 414.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Barolo",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Piemonte/Barolo/Fontanafredda-Silver-Barolo-2019/p/176101",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "204401",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/204401-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/204401-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Spania",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Tinto Selecto",
+    "price": {
+      "formattedValue": "Kr\u00A0133,90",
+      "readableValue": "133 kroner og 90 \u00F8re",
+      "value": 133.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Spania/Tinto-Selecto/p/204401",
+    "volume": {
+      "formattedValue": "100 cl",
+      "readableValue": "100 centiliter",
+      "value": 100
+    }
+  },
+  {
+    "code": "187801",
+    "buyable": true,
+    "district": {
+      "name": "Toscana",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/187801-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/187801-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Montesecondo T\u00EFn 2018",
+    "price": {
+      "formattedValue": "Kr\u00A0439,90",
+      "readableValue": "439 kroner og 90 \u00F8re",
+      "value": 439.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Toscana/Montesecondo-T%C3%AFn-2018/p/187801",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "187805",
+    "buyable": true,
+    "district": {
+      "name": "Toscana",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/187805-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/187805-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Montesecondo T\u00EFn 2018",
+    "price": {
+      "formattedValue": "Kr\u00A0850,00",
+      "readableValue": "850 kroner",
+      "value": 850
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Toscana/Montesecondo-T%C3%AFn-2018/p/187805",
+    "volume": {
+      "formattedValue": "150 cl",
+      "readableValue": "150 centiliter",
+      "value": 150
+    }
+  },
+  {
+    "code": "238702",
+    "buyable": true,
+    "district": {
+      "name": "Piemonte",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/238702-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/238702-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "\u00D8l",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Italia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Barley wine",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Baladin Terre 2012",
+    "price": {
+      "formattedValue": "Kr\u00A0299,90",
+      "readableValue": "299 kroner og 90 \u00F8re",
+      "value": 299.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Barolo",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Italia/Piemonte/Barolo/Baladin-Terre-2012/p/238702",
+    "volume": {
+      "formattedValue": "50 cl",
+      "readableValue": "50 centiliter",
+      "value": 50
+    }
+  },
+  {
+    "code": "281801",
+    "buyable": true,
+    "district": {
+      "name": "Catalonia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/281801-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/281801-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Spania",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Mas la Plana Cabernet Sauvignon 2018",
+    "price": {
+      "formattedValue": "Kr\u00A0649,90",
+      "readableValue": "649 kroner og 90 \u00F8re",
+      "value": 649.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Pened\u00E8s",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Spania/Catalonia/Pened%C3%A8s/Mas-la-Plana-Cabernet-Sauvignon-2018/p/281801",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "156202",
+    "buyable": true,
+    "district": {
+      "name": "Cognac Tradisjonell",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/156202-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/156202-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Druebrennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Soerlie Extra Grande Champagne",
+    "price": {
+      "formattedValue": "Kr\u00A0999,00",
+      "readableValue": "999 kroner",
+      "value": 999
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Grande Champagne",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Cognac-Tradisjonell/Grande-Champagne/Soerlie-Extra-Grande-Champagne/p/156202",
+    "volume": {
+      "formattedValue": "50 cl",
+      "readableValue": "50 centiliter",
+      "value": 50
+    }
+  },
+  {
+    "code": "191401",
+    "buyable": true,
+    "district": {
+      "name": "Rh\u00F4ne",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/191401-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/191401-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Dom. du Pegau Chateauneuf du Pape Cuvee Reservee 2020",
+    "price": {
+      "formattedValue": "Kr\u00A0749,90",
+      "readableValue": "749 kroner og 90 \u00F8re",
+      "value": 749.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Ch\u00E2teauneuf-du-Pape",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Rh%C3%B4ne/Ch%C3%A2teauneuf-du-Pape/Dom-du-Pegau-Chateauneuf-du-Pape-Cuvee-Reservee-2020/p/191401",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "283801",
+    "buyable": true,
+    "district": {
+      "name": "Bordeaux",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/283801-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/283801-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Frankrike",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Ch. Laroque 2015",
+    "price": {
+      "formattedValue": "Kr\u00A0599,90",
+      "readableValue": "599 kroner og 90 \u00F8re",
+      "value": 599.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "1 p\u00E5 lager",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: 1 p\u00E5 lager - flere kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Saint-Emilion",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Frankrike/Bordeaux/Saint-Emilion/Ch-Laroque-2015/p/283801",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "295801",
+    "buyable": true,
+    "district": {
+      "name": "California",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/295801-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/295801-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "USA",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Hirsch Pinot Noir Reserve 2020",
+    "price": {
+      "formattedValue": "Kr\u00A01\u00A0349,90",
+      "readableValue": "1349 kroner og 90 \u00F8re",
+      "value": 1349.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": "Sonoma Coast",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/USA/California/Sonoma-Coast/Hirsch-Pinot-Noir-Reserve-2020/p/295801",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "272901",
+    "buyable": true,
+    "district": {
+      "name": "South E. Australia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/272901-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/272901-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Australia",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Nottage Hill Cabernet Sauvignon Shiraz 2022",
+    "price": {
+      "formattedValue": "Kr\u00A0175,00",
+      "readableValue": "175 kroner",
+      "value": 175
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Australia/South-E-Australia/Nottage-Hill-Cabernet-Sauvignon-Shiraz-2022/p/272901",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "167502",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/167502-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/167502-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Norge",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Akevitt",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Gilde Smaladram",
+    "price": {
+      "formattedValue": "Kr\u00A0374,90",
+      "readableValue": "374 kroner og 90 \u00F8re",
+      "value": 374.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Norge/Gilde-Smaladram/p/167502",
+    "volume": {
+      "formattedValue": "50 cl",
+      "readableValue": "50 centiliter",
+      "value": 50
+    }
+  },
+  {
+    "code": "271801",
+    "buyable": true,
+    "district": {
+      "name": "Valle Central",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/271801-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/271801-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "R\u00F8dvin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Chile",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Santa Rita 120 Cabernet Sauvignon 2022",
+    "price": {
+      "formattedValue": "Kr\u00A0125,90",
+      "readableValue": "125 kroner og 90 \u00F8re",
+      "value": 125.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "6 p\u00E5 lager",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: 6 p\u00E5 lager - flere kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": true,
+    "url": "/Land/Chile/Valle-Central/Santa-Rita-120-Cabernet-Sauvignon-2022/p/271801",
+    "volume": {
+      "formattedValue": "75 cl",
+      "readableValue": "75 centiliter",
+      "value": 75
+    }
+  },
+  {
+    "code": "257101",
+    "buyable": true,
+    "district": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "expired": false,
+    "images": [
+      {
+        "format": 0,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/96x96-0/257101-1.jpg",
+        "altText": null
+      },
+      {
+        "format": 1,
+        "imageType": 0,
+        "url": "https://bilder.vinmonopolet.no/cache/300x300-0/257101-1.jpg",
+        "altText": null
+      }
+    ],
+    "main_category": {
+      "name": "Brennevin",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_country": {
+      "name": "Finland",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "main_sub_category": {
+      "name": "Vodka",
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "name": "Koskenkorva",
+    "price": {
+      "formattedValue": "Kr\u00A0394,90",
+      "readableValue": "394 kroner og 90 \u00F8re",
+      "value": 394.9
+    },
+    "productAvailability": {
+      "deliveryAvailability": {
+        "availableForPurchase": true,
+        "infoAvailabilityAllStores": null,
+        "infos": [
+          {
+            "availability": "Kan bestilles",
+            "location": "Post/Levering",
+            "readableValue": "Post/Levering: Kan bestilles"
+          }
+        ],
+        "openStockLocator": false
+      },
+      "storesAvailability": {
+        "availableForPurchase": true,
+        "infos": [
+          {
+            "availability": "Kan bestilles til alle butikker",
+            "location": null,
+            "readableValue": "Kan bestilles til alle butikker"
+          }
+        ],
+        "openStockLocator": true
+      }
+    },
+    "productSelection": 0,
+    "releaseMode": false,
+    "status": 0,
+    "sub_District": {
+      "name": null,
+      "code": null,
+      "searchQuery": null,
+      "url": null
+    },
+    "sustainable": false,
+    "url": "/Land/Finland/Koskenkorva/p/257101",
+    "volume": {
+      "formattedValue": "70 cl",
+      "readableValue": "70 centiliter",
+      "value": 70
+    }
+  }
+]

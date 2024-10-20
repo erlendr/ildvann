@@ -54,7 +54,7 @@ rums.Sort((a, b) => string.Compare(a.AbsolutePath, b.AbsolutePath, StringCompari
 var contentScraper = new ContentScraper();
 
 var scrapedRums = new List<Rum>();
-scrapedRums.AddRange(await contentScraper.GetRumByPageUrls(rums.Take(100).ToList()));
+scrapedRums.AddRange(await contentScraper.GetRumByPageUrls(rums.Take(1000).ToList()));
 
 var outputFilePath = Path.Combine(Directory.GetCurrentDirectory(), "rums.json");
 await OutputWriter.WriteRumsToJsonAsync(scrapedRums, outputFilePath);

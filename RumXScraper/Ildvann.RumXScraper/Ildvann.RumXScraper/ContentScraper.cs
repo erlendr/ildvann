@@ -1,9 +1,8 @@
-using System.Globalization;
 using System.Text;
-using System.Text.RegularExpressions;
 using AngleSharp.Html.Dom;
 using AngleSharp.Html.Parser;
 using Ildvann.RumXScraper.Models;
+using Spectre.Console;
 
 namespace Ildvann.RumXScraper;
 
@@ -16,7 +15,7 @@ public partial class ContentScraper
         // Change domain from rum-x.fr to rum-x.com to download english content
         var englishUrl = new Uri("https://www.rum-x.com" + url.AbsolutePath);
 
-        Console.WriteLine($"Downloading {englishUrl}...");
+        // Console.WriteLine($"Downloading {englishUrl}...");
 
         var html = await GetRawHtmlContent(englishUrl, token);
 
@@ -31,19 +30,40 @@ public partial class ContentScraper
     {
         ArgumentNullException.ThrowIfNull(urls);
 
+        var maxDegreeOfParallelism = 5;
         ParallelOptions parallelOptions = new()
         {
-            MaxDegreeOfParallelism = 10
+            MaxDegreeOfParallelism = maxDegreeOfParallelism
         };
 
         var rums = new List<Rum>();
 
-        await Parallel.ForEachAsync(urls, parallelOptions, async (uri, token) =>
-        {
-            var rum = await GetRumByPageUrl(uri, token);
-            rums.Add(rum);
-            Console.WriteLine($"Parsed {rum.Subtitle} {rum.Title}");
-        });
+        await AnsiConsole.Progress()
+            .Columns(
+                new TaskDescriptionColumn(),
+                new ProgressBarColumn(),
+                new PercentageColumn(),
+                new RemainingTimeColumn()
+            )
+            .StartAsync(async ctx =>
+            {
+                // Define tasks
+                var task1 = ctx.AddTask($"[green]Scraping {urls.Count} rums (p: {maxDegreeOfParallelism})[/]");
+                task1.MaxValue(urls.Count);
+
+                while (!ctx.IsFinished)
+                {
+                    await Parallel.ForEachAsync(urls, parallelOptions, async (uri, token) =>
+                    {
+                        var rum = await GetRumByPageUrl(uri, token);
+                        rums.Add(rum);
+                        
+                        // Increment
+                        task1.Increment(1);
+                    });
+                }
+            });
+        
 
         return rums;
     }
@@ -60,7 +80,7 @@ public partial class ContentScraper
         var ratings = int.Parse(document.QuerySelector("span[data-pagefind-meta='ratings_count']")?.TextContent ??
                                 string.Empty);
         var rxid = document.QuerySelector("span[data-pagefind-meta='rxid']")?.TextContent;
-        var country = document.QuerySelector("span[data-pagefind-meta='country_en']")?.TextContent;
+        var country = document.QuerySelector("div[itemprop='countryOfOrigin'] meta[itemprop='name']")?.GetAttribute("content");
 
         // count number of \u20AC characters in description
         var euroCount = desc?.Count(c => c == '\u20AC') ?? 0;

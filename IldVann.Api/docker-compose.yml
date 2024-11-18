@@ -1,0 +1,20 @@
+﻿services:
+  ildvann.api:
+    image: ildvann.api
+    build:
+      context: .
+      dockerfile: IldVann.Api/Dockerfile
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+  mongodb:
+    image: mongodb/mongodb-atlas-local
+    environment:
+      - MONGODB_INITDB_ROOT_USERNAME=user
+      - MONGODB_INITDB_ROOT_PASSWORD=pass
+    ports:
+      - "27019:27017"
+    volumes:
+      - data:/data/db
+volumes:
+  data:

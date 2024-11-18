@@ -1,0 +1,6 @@
+@IldVann.Api_HostAddress = http://localhost:5056
+
+GET {{IldVann.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

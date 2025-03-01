@@ -1,4 +1,5 @@
 using Microsoft.Extensions.Logging;
+
 using Vinmonopolet;
 using Vinmonopolet.Models;
 using Vinmonopolet.Models.Facets.MainCategory;
@@ -18,25 +19,25 @@ public class VmpScraperService(ILogger<VmpScraperService> logger, IVinmonopoletC
             .MainSubCategory(MainSubCategoryFacets.Rum);
 
         var productQueryBuilderResult = query.Build();
-        
-        var res =  await vmpClient.GetProducts(productQueryBuilderResult, new PaginationOptions
+
+        var res = await vmpClient.GetProducts(productQueryBuilderResult, new PaginationOptions
         {
             CurrentPage = 0,
             PageSize = 50
         });
         LogResult(res);
-        
+
         List<BaseProduct> baseProducts = [];
         baseProducts.AddRange(res.Products);
-        
+
         while (res.Pagination.CurrentPage <= res.Pagination.TotalPages)
         {
             res = await res.NextPage(vmpClient);
             LogResult(res);
             baseProducts.AddRange(res.Products);
             Console.WriteLine("Added {0} products", res.Products.Count);
-        }     
-        
+        }
+
         Console.WriteLine("Total products: {0}", baseProducts.Count);
         await OutputWriter.WriteBaseProductsToJsonAsync(baseProducts, "products.json");
     }

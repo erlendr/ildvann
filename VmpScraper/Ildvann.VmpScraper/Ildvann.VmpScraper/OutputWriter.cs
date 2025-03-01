@@ -1,5 +1,6 @@
 using System.Text.Json;
 using System.Text.Json.Serialization;
+
 using Vinmonopolet.Models;
 
 namespace Ildvann.VmpScraper;
@@ -26,7 +27,7 @@ public class OutputWriter
         }
         await using var stream = File.Create(filePath);
         await JsonSerializer.SerializeAsync(stream, rums, options);
-        
+
         Console.WriteLine($"Wrote BaseProduct data to '{filePath}'");
     }
 }

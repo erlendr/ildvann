@@ -2,15 +2,15 @@
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
-        <TargetFramework>net8.0</TargetFramework>
+        <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
-      <PackageReference Include="Vinmonopolet" Version="1.0.0-ci-main-b3f28da813d6e79763d9f165dd94a2b19ae980ed-11426357005" />
+      <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.2" />
+      <PackageReference Include="Vinmonopolet" Version="1.0.0-ci-main-db5a1b5b3aade1f4a9770146f0be9550da57f0b6-13608677511" />
     </ItemGroup>
 
 </Project>

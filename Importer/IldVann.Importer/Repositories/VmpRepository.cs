@@ -2,6 +2,7 @@ using System.Data;
 using System.Data.SqlClient;
 
 using IldVann.Importer.Dtos;
+using IldVann.Importer.Mappers;
 
 using Npgsql;
 
@@ -13,44 +14,16 @@ namespace Ildvann.Importer.Repositories;
 
 public class VmpRepository
 {
-    public VmpRepository()
-    {
-    }
+    private readonly VmpMapper _mapper;
 
-    private IDbConnection CreateConnection()
+    public VmpRepository(VmpMapper vmpMapper)
     {
-        const string server = "localhost";
-        const string database = "postgres";
-        const string userId = "erlend";
-        const string password = "postgres";
-
-        const string connectionString = $"Host={server};Port=5432;Database={database};Username={userId};Password={password}";
-        return new NpgsqlConnection(connectionString);
+        _mapper = vmpMapper ?? throw new ArgumentNullException(nameof(vmpMapper));
     }
 
     public void BulkInsertProducts(List<BaseProduct> products)
     {
-        // Map BaseProduct to DTO product
-        List<ProductDto> productList = [];
-        foreach (var product in products)
-        {
-            if (string.IsNullOrEmpty(product.Code))
-            {
-                continue;
-            }
-            
-            productList.Add(new ProductDto
-            {
-                Name = product.Name,
-                Code = product.Code,
-                Main_Country = product.MainCountry.Name,
-                Main_Category_Name = product.MainCategory.Name,
-                Main_Category_Code = product.MainCategory.Code,
-                Main_Subcategory_Name = product.MainSubCategory.Name,
-                Main_Subcategory_Code = product.MainSubCategory.Code,
-                Product_Selection = product.ProductSelection.ToString()
-            });
-        }
+        var productList = _mapper.MapBaseProductToProductDto(products);
 
         if (productList.Count == 0)
         {
@@ -58,9 +31,7 @@ public class VmpRepository
             return;
         }
 
-        Console.WriteLine("Mapped {0} products", productList.Count);
-
-        using var connection = CreateConnection();
+        using var connection = DbConnection.CreateConnection();
         connection
             .UseBulkOptions(options =>
             {
@@ -68,5 +39,7 @@ public class VmpRepository
                 options.DestinationTableName = "products";
             })
             .BulkInsert(productList);
+
+        Console.WriteLine("Inserted {0} products", productList.Count);
     }
 }

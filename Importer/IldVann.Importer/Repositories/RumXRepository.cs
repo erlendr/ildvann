@@ -19,13 +19,13 @@ public class RumXRepository
     public void BulkInsertRums(List<RumXRum> rums)
     {
         var mappedRums = _rumXMapper.MapToDto(rums);
-        
+
         if (mappedRums.Count == 0)
         {
             Console.WriteLine("No rums to insert, mapping failed");
             return;
         }
-        
+
         using var connection = DbConnection.CreateConnection();
         connection
             .UseBulkOptions(options =>
@@ -34,5 +34,7 @@ public class RumXRepository
                 options.DestinationTableName = "rumx_rums";
             })
             .BulkInsert(mappedRums);
+
+        Console.WriteLine($"Inserted {mappedRums.Count} rums");
     }
 }

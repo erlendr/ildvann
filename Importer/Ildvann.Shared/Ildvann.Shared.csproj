@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Npgsql" Version="9.0.3" />
+      <PackageReference Include="Vinmonopolet" Version="1.0.0-ci-main-dd75a83ea55454fdf64cdba2660dc5696c92b3c8-11531494701" />
+    </ItemGroup>
+
+</Project>

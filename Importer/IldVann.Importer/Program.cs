@@ -1,7 +1,7 @@
-﻿using IldVann.Importer.Loaders;
-using IldVann.Importer.Mappers;
+﻿using IldVann.Importer.Mappers;
 
 using Ildvann.Importer.Repositories;
+using Ildvann.Shared.Loaders;
 
 var vmpLoader = new VmpLoader();
 var products = await vmpLoader.LoadProducts();

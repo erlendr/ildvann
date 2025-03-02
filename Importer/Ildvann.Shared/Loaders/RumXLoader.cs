@@ -1,10 +1,10 @@
 using System.Text.Json;
 
-using IldVann.Importer.Models;
+using IldVann.Importer;
 
-using Vinmonopolet.Models;
+using Ildvann.Shared.Models;
 
-namespace IldVann.Importer.Loaders;
+namespace Ildvann.Shared.Loaders;
 
 public class RumXLoader
 {

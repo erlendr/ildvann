@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IldVann.Importer", "IldVann.Importer\IldVann.Importer.csproj", "{0F4B7EE9-CA07-4080-86A2-72293B7DF5BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IldVann.Embeddings", "IldVann.Embeddings\IldVann.Embeddings.csproj", "{59A565F2-8427-489A-9C1A-BA849DAF187C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ildvann.Shared", "Ildvann.Shared\Ildvann.Shared.csproj", "{76AF7477-CC63-414B-8E9F-4A3192C716A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{0F4B7EE9-CA07-4080-86A2-72293B7DF5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F4B7EE9-CA07-4080-86A2-72293B7DF5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F4B7EE9-CA07-4080-86A2-72293B7DF5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A565F2-8427-489A-9C1A-BA849DAF187C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A565F2-8427-489A-9C1A-BA849DAF187C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A565F2-8427-489A-9C1A-BA849DAF187C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A565F2-8427-489A-9C1A-BA849DAF187C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AF7477-CC63-414B-8E9F-4A3192C716A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AF7477-CC63-414B-8E9F-4A3192C716A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AF7477-CC63-414B-8E9F-4A3192C716A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AF7477-CC63-414B-8E9F-4A3192C716A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

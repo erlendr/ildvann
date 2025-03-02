@@ -2,7 +2,7 @@ using System.Data;
 
 using Npgsql;
 
-namespace Ildvann.Importer.Repositories;
+namespace Ildvann.Shared;
 
 public static class DbConnection
 {

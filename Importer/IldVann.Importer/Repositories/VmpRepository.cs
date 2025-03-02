@@ -1,10 +1,6 @@
-using System.Data;
-using System.Data.SqlClient;
-
-using IldVann.Importer.Dtos;
 using IldVann.Importer.Mappers;
 
-using Npgsql;
+using Ildvann.Shared;
 
 using Vinmonopolet.Models;
 

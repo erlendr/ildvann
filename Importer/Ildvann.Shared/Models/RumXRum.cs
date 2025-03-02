@@ -1,4 +1,4 @@
-namespace IldVann.Importer.Models;
+namespace Ildvann.Shared.Models;
 
 public record struct RumXRum
 {

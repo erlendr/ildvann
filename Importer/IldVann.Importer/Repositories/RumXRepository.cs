@@ -1,5 +1,7 @@
 using IldVann.Importer.Mappers;
-using IldVann.Importer.Models;
+
+using Ildvann.Shared;
+using Ildvann.Shared.Models;
 
 using Vinmonopolet.Models;
 

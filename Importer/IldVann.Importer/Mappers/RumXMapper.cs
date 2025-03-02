@@ -1,5 +1,6 @@
 using IldVann.Importer.Dtos;
-using IldVann.Importer.Models;
+
+using Ildvann.Shared.Models;
 
 namespace IldVann.Importer.Mappers;
 

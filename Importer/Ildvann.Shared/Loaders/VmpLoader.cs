@@ -1,12 +1,14 @@
 using System.Text.Json;
 
+using IldVann.Importer;
+
 using Vinmonopolet.Models;
 
-namespace IldVann.Importer.Loaders;
+namespace Ildvann.Shared.Loaders;
 
 public class VmpLoader
 {
-    private JsonSerializerOptions _jsonSerializerOptions = new()
+    private readonly JsonSerializerOptions _jsonSerializerOptions = new()
     {
         PropertyNamingPolicy = JsonNamingPolicy.CamelCase, Converters = { new UnknownEnumConverter() }
     };
